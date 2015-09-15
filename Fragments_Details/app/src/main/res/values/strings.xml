@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentsSlidenerd</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+   <string-array name="heroes">
+       <item>Batman</item>
+       <item>Superman</item>
+       <item>Green Lantern</item>
+       <item>Arrow</item>
+   </string-array>
+
+</resources>

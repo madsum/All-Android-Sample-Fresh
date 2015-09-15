@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Adapters</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Days">
+        <item>SunDay</item>
+        <item>MonDay</item>
+        <item>TuesDay</item>
+        <item>WednesDay</item>
+        <item>ThursDay</item>
+        <item>FriDay</item>
+        <item>SaturDay</item>
+    </string-array>
+
+    <string-array name="title">
+        <item>title 0</item>
+        <item>title 1</item>
+        <item>title 2</item>
+        <item>title 3</item>
+        <item>title 4</item>
+    </string-array>
+
+
+    <string-array name="description">
+        <item>description 0</item>
+        <item>description 1</item>
+        <item>description 2</item>
+        <item>description 3</item>
+        <item>description 4</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>canada</item>
+        <item>england</item>
+        <item>frnace</item>
+        <item>german</item>
+    </string-array>
+
+    <string-array name="countryFlag">
+        <item>@drawable/canada</item>
+        <item>@drawable/england</item>
+        <item>@drawable/france</item>
+        <item>@drawable/german</item>
+    </string-array>
+
+
+
+    <string name="title_activity_list_view_narray_adapter">ListViewNArrayAdapter</string>
+    <string name="title_activity_gride_view_with_base_adapter">GrideViewWithBaseAdapter</string>
+    <string name="title_activity_dialog">Dialog</string>
+    <string name="title_activity_my_dialog">MyDialog</string>
+    <string name="title_activity_spinner_adapter">SpinnerAdapter</string>
+</resources>

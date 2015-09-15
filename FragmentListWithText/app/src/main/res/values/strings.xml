@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FragmentListExample</string>
+    <string name="aim">Aim name</string>
+    <string name="aim_description">Aim description</string>
+    <string name="bebo">Bebo name</string>
+    <string name="bebo_description">Bebo description</string>
+    <string name="youtube">Youtue name</string>
+    <string name="youtube_description">Youtube description</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
